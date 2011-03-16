@@ -1,0 +1,2 @@
+This is a handy python lib for easily handling the Nagios Configuration, it's not complete, and maybe it's not well designed, but you are encouraged to extend it and improve it.
+I wrote it at my job for the support team to be able to add/delete a host or service as easily as possible (I wanted to learn some python too ;) )
